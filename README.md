@@ -92,6 +92,7 @@ Before starting, ensure you have the following software and hardware requirement
    ```bash
    python detect.py --source path/to/image_or_video --weights path/to/trained_weights.pt
    ```
+   the link of the best.pt https://drive.google.com/file/d/153UJCTQEPKjp_sfvN3ygqQahHTXX60jc/view?usp=share_link
 
 ### Acknowledgments
 
